@@ -2,7 +2,7 @@
 
 <h1 align="center">hey there 👋</h1>
 
-<p align="left">👷 ML/MLOps Engineer at day, ❄️ NixOS ricer at night <br>- 📚 I'm currently learning Rust.<br></p>
+<p align="left">-👷 ML/MLOps Engineer at day, ❄️ NixOS ricer at night <br>- 📚 I'm currently learning Rust.<br></p>
 
 ###
 
