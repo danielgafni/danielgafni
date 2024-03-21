@@ -1,6 +1,10 @@
 <h1 align="center">Hey there 👋</h1>
 
-<p align="left">-👷 ML/MLOps Engineer at day, ❄️ NixOS ricer at night <br>- 📚 I'm currently learning Rust.<br></p>
+<p align="left">👷 ML/MLOps Engineer at day <br>❄️ NixOS ricer at night <br>📚 I'm currently learning Rust<br></p>
+
+###
+
+My website: [gafni.dev](https://gafni.dev)
 
 ###
 
