@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋</h1>
 
-<p align="left">👷 ML/MLOps Engineer by day <br>❄️ NixOS ricer by night <br>📚 I'm currently learning Rust<br></p>
+<p align="left">👷 ML/MLOps Engineer by day <br>❄️ NixOS [ricer](https://github.com/danielgafni/nixos) by night <br>📚 I'm currently learning Rust<br></p>
 
 ###
 
