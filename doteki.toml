@@ -1,0 +1,8 @@
+[sections.blog]
+plugin = "feed"
+url = "https://gafni.dev/atom.xml"
+
+[sections.last_updated]
+plugin = "current_date"
+inline = true
+
