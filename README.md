@@ -17,7 +17,7 @@ To learn more about myself, check out [my website](https://gafni.dev).
 - [The Modern CLI Stack](https://gafni.dev/blog/modern-cli-stack/)
 <!-- blog end -->
 
-<sub>Last updated on <!-- last_updated start -->2025-01-09<!-- last_updated end --></sub>
+<sub>Last updated on <!-- last_updated start -->2025-01-10<!-- last_updated end --></sub>
 
 ---
 
