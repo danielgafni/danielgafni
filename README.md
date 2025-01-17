@@ -4,7 +4,8 @@ Hey, that's me, `@danielgafni`!
 
 - an ML/MLOps/Big Data Engineer :construction_worker:
 - K8s fan :wheel:
-- [NixOS](https://github.com/danielgafni/nixos) :snowflake: and [ArchLinux](https://github.com/danielgafni/dotfiles) enjoyer :nerd_face:
+- a proud Pythonista :snake: 
+- [NixOS](https://github.com/danielgafni/nixos) :snowflake: and ex-[ArchLinux](https://github.com/danielgafni/dotfiles) enjoyer :nerd_face:
 - OSS contributor :heart:
 
 To learn more about myself, check out [my website](https://gafni.dev).
