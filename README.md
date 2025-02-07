@@ -6,7 +6,7 @@ Hey, that's me, `@danielgafni`!
 - K8s fan :wheel:
 - a proud Pythonista :snake: 
 - [NixOS](https://github.com/danielgafni/nixos) :snowflake: and ex-[ArchLinux](https://github.com/danielgafni/dotfiles) enjoyer :nerd_face:
-- OSS contributor :heart:
+- [Dagster](https://github.com/dagster-io/dagster) and other Open Source projects contributor :heart:
 
 To learn more about myself, check out [my website](https://gafni.dev).
 
