@@ -13,6 +13,7 @@ To learn more about myself, check out [my website](https://gafni.dev).
 # Latest blog posts
 
 <!-- blog start -->
+- [Cracking the Python Monorepo](https://gafni.dev/blog/cracking-the-python-monorepo/)
 - [Cloud Computing with EKS: Cluster Setup](https://gafni.dev/blog/cloud-computing-eks-part-1/)
 - [Unlocking Flexible Pipelines: Customizing the Asset Decorator](https://gafni.dev/blog/custom-dagster-asset-decorator/)
 - [The Modern CLI Stack](https://gafni.dev/blog/modern-cli-stack/)
