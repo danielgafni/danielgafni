@@ -25,6 +25,6 @@ To learn more about myself, check out [my website](https://gafni.dev).
 
 # 🔥 My GitHub stats
 
-![danielgafni's GitHub stats](https://githubcard.com/danielgafni.svg?d=zlxTSvXA)
+![danielgafni's GitHub stats](https://githubcard.com/danielgafni.svg)
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
