@@ -25,9 +25,6 @@ To learn more about myself, check out [my website](https://gafni.dev).
 
 # 🔥 My GitHub stats
 
-[![danielgafni's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgafni&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![danielgafni's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgafni&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
+![danielgafni's GitHub stats](https://githubcard.com/danielgafni.svg?d=zlxTSvXA)
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
